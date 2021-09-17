@@ -12,7 +12,7 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        Im an aspiring software dev looking to spread my wings. I always look for exciting now skills to learn and improve on existing ones.
+        Im an aspiring software dev looking to spread my wings. I always look for exciting new skills to learn and ways to improve on existing ones.
       </SectionText>
       <Button onClick={() => window.scrollTo(0,document.about)}>Get in touch</Button>
     </LeftSection>
