@@ -26,7 +26,7 @@ const Header = () =>  (
         </Link>
       </li>
       <li>
-          <a href="https://drive.google.com/file/d/1bOtswL9il1KPPBBiHj5-3PJz-9Kr8BO5/view?usp=sharing" download target="_blank">
+          <a href="https://drive.google.com/file/d/1ej7mvA7xAA7XXNtbICHiGHASAWHg7kSA/view?usp=sharing" download target="_blank">
             <NavLink>Resume</NavLink>
           </a>
       </li>
