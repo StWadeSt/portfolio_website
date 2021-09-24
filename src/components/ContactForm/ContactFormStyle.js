@@ -36,3 +36,7 @@ export const SendButton = styled.button`
     cursor: pointer;
 `;
 
+export const Form = styled.form`
+    display: flex;
+    flex-direction: column;
+`;
