@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiJavascript, DiJava, DiPhp, DiGit, DiMsqlServer, DiAndroid } from 'react-icons/di';
+import { DiReact, DiJavascript, DiJava,  DiGit, DiMysql,  } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { TechIcons, TechIconList, List, ListParagraph } from './TechnologiesStyles';
 
@@ -12,13 +12,11 @@ const Technologies = () =>  (
     </SectionText>
     <List>
       <TechIconList>
-        <TechIcons><DiPhp size="10rem"/><ListParagraph>PHP</ListParagraph></TechIcons>
         <TechIcons><DiReact size="10rem"/><ListParagraph>Reactjs</ListParagraph></TechIcons>
-        <TechIcons><DiAndroid size="10rem"/><ListParagraph>Android</ListParagraph></TechIcons>
         <TechIcons><DiJava size="10rem"/><ListParagraph>Java</ListParagraph></TechIcons>
         <TechIcons><DiJavascript size="10rem"/><ListParagraph>Javascript</ListParagraph></TechIcons>
-        <TechIcons><DiFirebase size="10rem"/><ListParagraph>Firebase</ListParagraph></TechIcons>
         <TechIcons><DiGit size="10rem"/><ListParagraph>Git</ListParagraph></TechIcons>
+        <TechIcons><DiMysql size="10rem"></DiMysql><ListParagraph>MySQL</ListParagraph></TechIcons>
       </TechIconList>
     </List>
   </Section>

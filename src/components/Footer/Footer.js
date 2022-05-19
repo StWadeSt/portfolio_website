@@ -6,9 +6,24 @@ import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTi
 
 const Footer = () => {
   return (
-    <div>
-      Footer
-    </div>
+    <FooterWrapper>
+      <h1>eheh</h1>
+      <h1>eheh</h1>
+      <h1>eheh</h1>
+      <h1>eheh</h1>
+      <h1>eheh</h1>
+      <h1>eheh</h1>
+      <h1>eheh</h1>
+      <h1>eheh</h1>
+      <h1>eheh</h1>
+      <h1>eheh</h1>
+      <h1>eheh</h1>
+      <h1>eheh</h1>
+      <h1>eheh</h1>
+      <h1>eheh</h1>
+      <h1>eheh</h1>
+      <h1>eheh </h1>
+    </FooterWrapper>
   );
 };
 
