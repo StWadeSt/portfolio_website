@@ -16,6 +16,23 @@ export const projects = [
     source: 'https://github.com/StWadeSt/covid-19-tracker',
     visit: 'https://covid-19-tracker-b04f3.web.app/',
     id: 1,
+   {
+    title: 'Expense Tracker',
+    description:"Using React, Javascript, HTML, CSS, i created a simple expense traker that keeps track of deposits and withdrawls. All totals are updated immediately with a withdrawl or deposit is made. I made use of the useEffect hook to keep track of changes and update the state varables.",
+    image: '/images/expense-tracker.png',
+    tags: ['React', 'JavaScript', 'HTML & CSS'],
+    source: 'https://github.com/StWadeSt/expense-tracker',
+    visit: 'https://expense-traker-app.netlify.app',
+    id: 2,
+  },
+  {
+    title: 'Fitness App',
+    description:"Using React, Javascript, HTML, CSS, i created a fitness app that users can use to search for any exercises as well as target specific body parts. Clicking on a exercise opens a details page that shows info about the exercise as well as youtube videos about the exercise. Used react router to navigate through pages",
+    image: '/images/expense-tracker.png',
+    tags: ['React', 'JavaScript', 'HTML & CSS'],
+    source: 'https://github.com/StWadeSt/fitness-app',
+    visit: 'https://fitness-app2.netlify.app',
+    id: 3,
   },
 ];
 
